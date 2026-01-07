@@ -64,13 +64,13 @@ I strongly believe in learning by building, and I love understanding the **logic
 ## 🌐 Connect with Me
 
 <p>
-  <a href="https://instagram.com/miss_chauhan_2801">
+  <a href="https://instagram.com/miss_chauhan_2801" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/vaishalich2801">
+  <a href="https://www.linkedin.com/in/vaishalich2801" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:vaishalichauhan2801@email.com">
+  <a href="mailto:vaishalichauhan2801@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
